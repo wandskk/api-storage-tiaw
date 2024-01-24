@@ -77,7 +77,8 @@
       "name": "Western"
     }
   ],
-  "movies": [
+
+  "now-playing": [
     {
       "adult": false,
       "backdrop_path": "/5a4JdoFwll5DRtKMe7JLuGQ9yJm.jpg",
@@ -92,8 +93,7 @@
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
       "video": false,
       "vote_average": 7.216,
-      "vote_count": 1065,
-      "section": "now-playing"
+      "vote_count": 1065
     },
     {
       "adult": false,
@@ -109,8 +109,7 @@
       "title": "Aquaman and the Lost Kingdom",
       "video": false,
       "vote_average": 6.593,
-      "vote_count": 199,
-      "section": "now-playing"
+      "vote_count": 199
     },
     {
       "adult": false,
@@ -126,8 +125,7 @@
       "title": "The Family Plan",
       "video": false,
       "vote_average": 7.433,
-      "vote_count": 383,
-      "section": "now-playing"
+      "vote_count": 383
     },
     {
       "adult": false,
@@ -143,8 +141,7 @@
       "title": "Silent Night",
       "video": false,
       "vote_average": 5.826,
-      "vote_count": 141,
-      "section": "now-playing"
+      "vote_count": 141
     },
     {
       "adult": false,
@@ -160,8 +157,7 @@
       "title": "Wonka",
       "video": false,
       "vote_average": 7.2,
-      "vote_count": 579,
-      "section": "now-playing"
+      "vote_count": 579
     },
     {
       "adult": false,
@@ -177,8 +173,7 @@
       "title": "Thanksgiving",
       "video": false,
       "vote_average": 6.673,
-      "vote_count": 294,
-      "section": "now-playing"
+      "vote_count": 294
     },
     {
       "adult": false,
@@ -194,8 +189,7 @@
       "title": "Rebel Moon - Part One: A Child of Fire",
       "video": false,
       "vote_average": 6.481,
-      "vote_count": 528,
-      "section": "now-playing"
+      "vote_count": 528
     },
     {
       "adult": false,
@@ -211,8 +205,7 @@
       "title": "Chicken Run: Dawn of the Nugget",
       "video": false,
       "vote_average": 7.496,
-      "vote_count": 282,
-      "section": "now-playing"
+      "vote_count": 282
     },
     {
       "adult": false,
@@ -228,8 +221,7 @@
       "title": "Killers of the Flower Moon",
       "video": false,
       "vote_average": 7.56,
-      "vote_count": 1597,
-      "section": "now-playing"
+      "vote_count": 1597
     },
     {
       "adult": false,
@@ -245,8 +237,7 @@
       "title": "Freelance",
       "video": false,
       "vote_average": 6.5,
-      "vote_count": 372,
-      "section": "now-playing"
+      "vote_count": 372
     },
     {
       "adult": false,
@@ -262,8 +253,7 @@
       "title": "Trolls Band Together",
       "video": false,
       "vote_average": 7.159,
-      "vote_count": 419,
-      "section": "now-playing"
+      "vote_count": 419
     },
     {
       "adult": false,
@@ -279,8 +269,7 @@
       "title": "Saltburn",
       "video": false,
       "vote_average": 7.172,
-      "vote_count": 258,
-      "section": "now-playing"
+      "vote_count": 258
     },
     {
       "adult": false,
@@ -296,8 +285,7 @@
       "title": "Leave the World Behind",
       "video": false,
       "vote_average": 6.534,
-      "vote_count": 1150,
-      "section": "now-playing"
+      "vote_count": 1150
     },
     {
       "adult": false,
@@ -313,8 +301,7 @@
       "title": "Good Boy",
       "video": false,
       "vote_average": 6.724,
-      "vote_count": 114,
-      "section": "now-playing"
+      "vote_count": 114
     },
     {
       "adult": false,
@@ -330,8 +317,7 @@
       "title": "Heroic",
       "video": false,
       "vote_average": 7.63,
-      "vote_count": 69,
-      "section": "now-playing"
+      "vote_count": 69
     },
     {
       "adult": false,
@@ -347,8 +333,7 @@
       "title": "Saw X",
       "video": false,
       "vote_average": 7.389,
-      "vote_count": 1309,
-      "section": "now-playing"
+      "vote_count": 1309
     },
     {
       "adult": false,
@@ -364,8 +349,7 @@
       "title": "Migration",
       "video": false,
       "vote_average": 7.32,
-      "vote_count": 50,
-      "section": "now-playing"
+      "vote_count": 50
     },
     {
       "adult": false,
@@ -381,8 +365,7 @@
       "title": "Elemental",
       "video": false,
       "vote_average": 7.716,
-      "vote_count": 3286,
-      "section": "now-playing"
+      "vote_count": 3286
     },
     {
       "adult": false,
@@ -398,8 +381,7 @@
       "title": "Retribution",
       "video": false,
       "vote_average": 6.899,
-      "vote_count": 768,
-      "section": "now-playing"
+      "vote_count": 768
     },
     {
       "adult": false,
@@ -415,10 +397,10 @@
       "title": "Wish",
       "video": false,
       "vote_average": 6.596,
-      "vote_count": 162,
-      "section": "now-playing"
-    },
-
+      "vote_count": 162
+    }
+  ],
+  "popular": [
     {
       "adult": false,
       "backdrop_path": "/5a4JdoFwll5DRtKMe7JLuGQ9yJm.jpg",
@@ -433,8 +415,7 @@
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
       "video": false,
       "vote_average": 7.223,
-      "vote_count": 1062,
-      "section": "popular"
+      "vote_count": 1062
     },
     {
       "adult": false,
@@ -450,8 +431,7 @@
       "title": "Aquaman and the Lost Kingdom",
       "video": false,
       "vote_average": 6.593,
-      "vote_count": 199,
-      "section": "popular"
+      "vote_count": 199
     },
     {
       "adult": false,
@@ -467,8 +447,7 @@
       "title": "The Family Plan",
       "video": false,
       "vote_average": 7.433,
-      "vote_count": 383,
-      "section": "popular"
+      "vote_count": 383
     },
     {
       "adult": false,
@@ -484,8 +463,7 @@
       "title": "Silent Night",
       "video": false,
       "vote_average": 5.825,
-      "vote_count": 140,
-      "section": "popular"
+      "vote_count": 140
     },
     {
       "adult": false,
@@ -501,8 +479,7 @@
       "title": "Thanksgiving",
       "video": false,
       "vote_average": 6.662,
-      "vote_count": 293,
-      "section": "popular"
+      "vote_count": 293
     },
     {
       "adult": false,
@@ -519,8 +496,7 @@
       "video": false,
       "vote_average": 7.177,
       "vote_count": 578,
-      "featured": true,
-      "section": "popular"
+      "featured": true
     },
     {
       "adult": false,
@@ -537,8 +513,7 @@
       "video": false,
       "vote_average": 6.476,
       "vote_count": 522,
-      "featured": true,
-      "section": "popular"
+      "featured": true
     },
     {
       "adult": false,
@@ -554,8 +529,7 @@
       "title": "How the Grinch Stole Christmas",
       "video": false,
       "vote_average": 6.766,
-      "vote_count": 6966,
-      "section": "popular"
+      "vote_count": 6966
     },
     {
       "adult": false,
@@ -572,8 +546,7 @@
       "video": false,
       "vote_average": 7.5,
       "vote_count": 281,
-      "featured": true,
-      "section": "popular"
+      "featured": true
     },
     {
       "adult": false,
@@ -589,8 +562,7 @@
       "title": "The Grinch",
       "video": false,
       "vote_average": 6.85,
-      "vote_count": 3595,
-      "section": "popular"
+      "vote_count": 3595
     },
     {
       "adult": false,
@@ -606,8 +578,7 @@
       "title": "Killers of the Flower Moon",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 1594,
-      "section": "popular"
+      "vote_count": 1594
     },
     {
       "adult": false,
@@ -623,8 +594,7 @@
       "title": "Oppenheimer",
       "video": false,
       "vote_average": 8.126,
-      "vote_count": 5633,
-      "section": "popular"
+      "vote_count": 5633
     },
     {
       "adult": false,
@@ -640,8 +610,7 @@
       "title": "Freelance",
       "video": false,
       "vote_average": 6.477,
-      "vote_count": 372,
-      "section": "popular"
+      "vote_count": 372
     },
     {
       "adult": false,
@@ -657,8 +626,7 @@
       "title": "Megaboa",
       "video": false,
       "vote_average": 6.5,
-      "vote_count": 442,
-      "section": "popular"
+      "vote_count": 442
     },
     {
       "adult": false,
@@ -674,8 +642,7 @@
       "title": "The Creator",
       "video": false,
       "vote_average": 7.145,
-      "vote_count": 1591,
-      "section": "popular"
+      "vote_count": 1591
     },
     {
       "adult": false,
@@ -691,8 +658,7 @@
       "title": "Trolls Band Together",
       "video": false,
       "vote_average": 7.159,
-      "vote_count": 419,
-      "section": "popular"
+      "vote_count": 419
     },
     {
       "adult": false,
@@ -708,8 +674,7 @@
       "title": "Fast X",
       "video": false,
       "vote_average": 7.2,
-      "vote_count": 4537,
-      "section": "popular"
+      "vote_count": 4537
     },
     {
       "adult": false,
@@ -725,8 +690,7 @@
       "title": "Five Nights at Freddy's",
       "video": false,
       "vote_average": 7.801,
-      "vote_count": 2953,
-      "section": "popular"
+      "vote_count": 2953
     },
     {
       "adult": false,
@@ -742,8 +706,7 @@
       "title": "Leo",
       "video": false,
       "vote_average": 7.568,
-      "vote_count": 671,
-      "section": "popular"
+      "vote_count": 671
     },
     {
       "adult": false,
@@ -759,10 +722,10 @@
       "title": "Expend4bles",
       "video": false,
       "vote_average": 6.447,
-      "vote_count": 928,
-      "section": "popular"
-    },
-
+      "vote_count": 928
+    }
+  ],
+  "top-rated": [
     {
       "adult": false,
       "backdrop_path": "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
@@ -777,8 +740,7 @@
       "title": "The Godfather",
       "video": false,
       "vote_average": 8.708,
-      "vote_count": 19186,
-      "section": "top-rated"
+      "vote_count": 19186
     },
     {
       "adult": false,
@@ -794,8 +756,7 @@
       "title": "The Shawshank Redemption",
       "video": false,
       "vote_average": 8.707,
-      "vote_count": 25173,
-      "section": "top-rated"
+      "vote_count": 25173
     },
     {
       "adult": false,
@@ -811,8 +772,7 @@
       "title": "The Godfather Part II",
       "video": false,
       "vote_average": 8.589,
-      "vote_count": 11563,
-      "section": "top-rated"
+      "vote_count": 11563
     },
     {
       "adult": false,
@@ -828,8 +788,7 @@
       "title": "Schindler's List",
       "video": false,
       "vote_average": 8.573,
-      "vote_count": 14913,
-      "section": "top-rated"
+      "vote_count": 14913
     },
     {
       "adult": false,
@@ -845,8 +804,7 @@
       "title": "Dilwale Dulhania Le Jayenge",
       "video": false,
       "vote_average": 8.547,
-      "vote_count": 4304,
-      "section": "top-rated"
+      "vote_count": 4304
     },
     {
       "adult": false,
@@ -862,8 +820,7 @@
       "title": "12 Angry Men",
       "video": false,
       "vote_average": 8.546,
-      "vote_count": 7878,
-      "section": "top-rated"
+      "vote_count": 7878
     },
     {
       "adult": false,
@@ -879,8 +836,7 @@
       "title": "Spirited Away",
       "video": false,
       "vote_average": 8.54,
-      "vote_count": 15260,
-      "section": "top-rated"
+      "vote_count": 15260
     },
     {
       "adult": false,
@@ -896,8 +852,7 @@
       "title": "Parasite",
       "video": false,
       "vote_average": 8.513,
-      "vote_count": 16822,
-      "section": "top-rated"
+      "vote_count": 16822
     },
     {
       "adult": false,
@@ -913,8 +868,7 @@
       "title": "The Dark Knight",
       "video": false,
       "vote_average": 8.513,
-      "vote_count": 31112,
-      "section": "top-rated"
+      "vote_count": 31112
     },
     {
       "adult": false,
@@ -930,8 +884,7 @@
       "title": "The Green Mile",
       "video": false,
       "vote_average": 8.51,
-      "vote_count": 16264,
-      "section": "top-rated"
+      "vote_count": 16264
     },
     {
       "adult": false,
@@ -947,8 +900,7 @@
       "title": "Your Name.",
       "video": false,
       "vote_average": 8.499,
-      "vote_count": 10609,
-      "section": "top-rated"
+      "vote_count": 10609
     },
     {
       "adult": false,
@@ -964,8 +916,7 @@
       "title": "Pulp Fiction",
       "video": false,
       "vote_average": 8.489,
-      "vote_count": 26323,
-      "section": "top-rated"
+      "vote_count": 26323
     },
     {
       "adult": false,
@@ -981,8 +932,7 @@
       "title": "The Lord of the Rings: The Return of the King",
       "video": false,
       "vote_average": 8.477,
-      "vote_count": 22748,
-      "section": "top-rated"
+      "vote_count": 22748
     },
     {
       "adult": false,
@@ -998,8 +948,7 @@
       "title": "Forrest Gump",
       "video": false,
       "vote_average": 8.477,
-      "vote_count": 25840,
-      "section": "top-rated"
+      "vote_count": 25840
     },
     {
       "adult": false,
@@ -1015,8 +964,7 @@
       "title": "The Good, the Bad and the Ugly",
       "video": false,
       "vote_average": 8.472,
-      "vote_count": 7954,
-      "section": "top-rated"
+      "vote_count": 7954
     },
     {
       "adult": false,
@@ -1032,8 +980,7 @@
       "title": "GoodFellas",
       "video": false,
       "vote_average": 8.466,
-      "vote_count": 11987,
-      "section": "top-rated"
+      "vote_count": 11987
     },
     {
       "adult": false,
@@ -1049,8 +996,7 @@
       "title": "Taylor Swift: Reputation Stadium Tour",
       "video": false,
       "vote_average": 8.47,
-      "vote_count": 331,
-      "section": "top-rated"
+      "vote_count": 331
     },
     {
       "adult": false,
@@ -1066,8 +1012,7 @@
       "title": "Seven Samurai",
       "video": false,
       "vote_average": 8.458,
-      "vote_count": 3334,
-      "section": "top-rated"
+      "vote_count": 3334
     },
     {
       "adult": false,
@@ -1083,8 +1028,7 @@
       "title": "Grave of the Fireflies",
       "video": false,
       "vote_average": 8.455,
-      "vote_count": 4998,
-      "section": "top-rated"
+      "vote_count": 4998
     },
     {
       "adult": false,
@@ -1100,10 +1044,10 @@
       "title": "Life Is Beautiful",
       "video": false,
       "vote_average": 8.455,
-      "vote_count": 12425,
-      "section": "top-rated"
-    },
-
+      "vote_count": 12425
+    }
+  ],
+  "upcoming": [
     {
       "adult": false,
       "backdrop_path": "/jXJxMcVoEuXzym3vFnjqDW4ifo6.jpg",
@@ -1118,8 +1062,7 @@
       "title": "Aquaman and the Lost Kingdom",
       "video": false,
       "vote_average": 6.593,
-      "vote_count": 199,
-      "section": "upcoming"
+      "vote_count": 199
     },
     {
       "adult": false,
@@ -1135,8 +1078,7 @@
       "title": "Silent Night",
       "video": false,
       "vote_average": 5.826,
-      "vote_count": 141,
-      "section": "upcoming"
+      "vote_count": 141
     },
     {
       "adult": false,
@@ -1152,8 +1094,7 @@
       "title": "Oppenheimer",
       "video": false,
       "vote_average": 8.126,
-      "vote_count": 5634,
-      "section": "upcoming"
+      "vote_count": 5634
     },
     {
       "adult": false,
@@ -1169,8 +1110,7 @@
       "title": "Trolls Band Together",
       "video": false,
       "vote_average": 7.159,
-      "vote_count": 419,
-      "section": "upcoming"
+      "vote_count": 419
     },
     {
       "adult": false,
@@ -1186,8 +1126,7 @@
       "title": "Migration",
       "video": false,
       "vote_average": 7.32,
-      "vote_count": 50,
-      "section": "upcoming"
+      "vote_count": 50
     },
     {
       "adult": false,
@@ -1203,8 +1142,7 @@
       "title": "Wish",
       "video": false,
       "vote_average": 6.596,
-      "vote_count": 162,
-      "section": "upcoming"
+      "vote_count": 162
     },
     {
       "adult": false,
@@ -1220,8 +1158,7 @@
       "title": "Godzilla Minus One",
       "video": false,
       "vote_average": 8.1,
-      "vote_count": 182,
-      "section": "upcoming"
+      "vote_count": 182
     },
     {
       "adult": false,
@@ -1237,8 +1174,7 @@
       "title": "Sound of Freedom",
       "video": false,
       "vote_average": 8.1,
-      "vote_count": 1642,
-      "section": "upcoming"
+      "vote_count": 1642
     },
     {
       "adult": false,
@@ -1254,8 +1190,7 @@
       "title": "Dream Scenario",
       "video": false,
       "vote_average": 7.168,
-      "vote_count": 113,
-      "section": "upcoming"
+      "vote_count": 113
     },
     {
       "adult": false,
@@ -1271,8 +1206,7 @@
       "title": "There's Something in the Barn",
       "video": false,
       "vote_average": 6.897,
-      "vote_count": 63,
-      "section": "upcoming"
+      "vote_count": 63
     },
     {
       "adult": false,
@@ -1288,8 +1222,7 @@
       "title": "Mavka: The Forest Song",
       "video": false,
       "vote_average": 7.325,
-      "vote_count": 557,
-      "section": "upcoming"
+      "vote_count": 557
     },
     {
       "adult": false,
@@ -1305,8 +1238,7 @@
       "title": "Radical",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 13,
-      "section": "upcoming"
+      "vote_count": 13
     },
     {
       "adult": false,
@@ -1322,8 +1254,7 @@
       "title": "The Color Purple",
       "video": false,
       "vote_average": 9,
-      "vote_count": 6,
-      "section": "upcoming"
+      "vote_count": 6
     },
     {
       "adult": false,
@@ -1339,8 +1270,7 @@
       "title": "Anyone But You",
       "video": false,
       "vote_average": 8.9,
-      "vote_count": 10,
-      "section": "upcoming"
+      "vote_count": 10
     },
     {
       "adult": false,
@@ -1356,8 +1286,7 @@
       "title": "Soccer Soul",
       "video": false,
       "vote_average": 5.3,
-      "vote_count": 3,
-      "section": "upcoming"
+      "vote_count": 3
     },
     {
       "adult": false,
@@ -1373,8 +1302,7 @@
       "title": "The Boy and the Heron",
       "video": false,
       "vote_average": 7.3,
-      "vote_count": 303,
-      "section": "upcoming"
+      "vote_count": 303
     },
     {
       "adult": false,
@@ -1390,8 +1318,7 @@
       "title": "When Evil Lurks",
       "video": false,
       "vote_average": 7.234,
-      "vote_count": 316,
-      "section": "upcoming"
+      "vote_count": 316
     },
     {
       "adult": false,
@@ -1407,8 +1334,7 @@
       "title": "The Holdovers",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 200,
-      "section": "upcoming"
+      "vote_count": 200
     },
     {
       "adult": false,
@@ -1424,8 +1350,7 @@
       "title": "Anatomy of a Fall",
       "video": false,
       "vote_average": 7.7,
-      "vote_count": 465,
-      "section": "upcoming"
+      "vote_count": 465
     },
     {
       "adult": false,
@@ -1441,8 +1366,7 @@
       "title": "Poor Things",
       "video": false,
       "vote_average": 8.5,
-      "vote_count": 29,
-      "section": "upcoming"
+      "vote_count": 29
     }
-  ]  
+  ]
 }
